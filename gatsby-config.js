@@ -28,6 +28,8 @@ module.exports = {
         options: {
             repositoryName: 'koooool', // (REQUIRED, replace with your own)
             linkResolver: () => post => `/${post.uid}`,
+            path: '/preview',
+            previews: true,
         }
     },
     {
