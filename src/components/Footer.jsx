@@ -53,8 +53,8 @@ const Footer = () => (
         <Link to="/">
             <Logo />
         </Link>
-        <FooterAuthor href="https://marguerite.io">
-            © 2019 — Designed & developed by Marguerite Roth
+        <FooterAuthor href="https://harmitsampat96.github.io">
+            © 2019 — Harmit Sampat
             <FooterSpooch className="FooterSpooch" src={spooch} />
         </FooterAuthor>
     </FooterContainer>
